@@ -1,6 +1,6 @@
 {
-  "name": "@thoughtbot/trix-mentions-element",
-  "version": "0.1.2",
+  "name": "@mir4a/trix-mentions-element",
+  "version": "0.2.0-alpha.0",
   "description": "Activates a suggestion menu to embed attachments as you type.",
   "repository": "thoughtbot/trix-mentions-element",
   "type": "module",
